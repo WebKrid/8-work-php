@@ -1,0 +1,2 @@
+[2023-02-12T08:28:14.299775+00:00] blog.ERROR: User already exists: user123 {"exception":"[object] (GeekBrains\\LevelTwo\\Blog\\Exceptions\\CommandException(code: 0): User already exists: user123 at F:\\training\\PHP2\\lesson 6\\trening1\\src\\Blog\\Commands\\CreateUserCommand.php:44)"} []
+[2023-02-12T08:33:12.753943+00:00] blog.ERROR: User already exists: user123 {"exception":"[object] (GeekBrains\\LevelTwo\\Blog\\Exceptions\\CommandException(code: 0): User already exists: user123 at F:\\training\\PHP2\\lesson 6\\trening1\\src\\Blog\\Commands\\CreateUserCommand.php:44)"} []
